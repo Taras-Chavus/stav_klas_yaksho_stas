@@ -1,0 +1,217 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+p{
+    color: #777777;
+    padding-top: 20px;
+    font-family: 'Slabo 27px', serif;
+}
+
+
+.div-h{
+    padding-top: 60px;
+    color: #FED136;
+    font-family: 'Dancing Script', cursive
+}
+
+
+.div-ul{
+    padding-top: 70px;
+    padding-bottom: 150px;
+    font-family: 'Odibee Sans', cursive;
+}
+     
+
+.menu-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.ul{
+    list-style: none;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    display: flex;
+    text-decoration: none;
+    color: #222222;
+}
+
+
+li{
+    font-size: 22px;
+    padding-left: 30px;
+    padding-right: 30px;    
+}
+
+
+.text-wrapper{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+
+
+ .icon-wrapper{
+     justify-content: space-around;  
+     display: flex;
+     text-align: center;
+     padding-bottom: 30px;
+ }
+
+
+ .wrapper{
+     padding-top: 100px;
+     padding-bottom: 100px;
+ }
+
+
+ .dark-wrapper{
+     background-color: #222222;
+     height: 1000px;
+     width: 100%;
+     background-image: url(IMG/rica.png);
+     background-repeat: no-repeat; 
+     background-position: right;
+ }
+
+
+#h1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+ .shokolad{
+    padding-left: 200px;
+ }
+
+
+ .shokolad1{
+     padding-left: 70px;
+     padding-right: 70px;
+}
+
+
+.shokolad2{
+     padding-right: 200px;
+}
+
+
+.monkey{
+    padding-left: 163px;
+}
+
+
+.monkey2{
+    padding-right: 163px;
+}
+
+
+.title{
+    padding-top: 80px;
+}
+
+ .p{
+     text-align: center;
+     font-size: 18px;
+ }
+
+
+ .p1{
+    text-align: center;
+    font-size: 18px;
+    color: #777777;
+}
+
+
+ .h{
+     font-size: 60px;
+     text-align: center;
+     margin-bottom: 0;
+     font-family: 'Montserrat Subrayada', sans-serif;
+ }
+
+
+.h1{
+    color: #ffffff;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 0;
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+
+ .circle_block{
+    background-color: #ffffff;
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    border: solid #FED136;
+}
+
+
+.icon{
+    color: #FED136;
+    margin-top: 13px;
+    font-size: 38px;
+}
+
+
+.input3{
+    width: 436px;
+    height: 51px; 
+    border-color: solid #ffffff;
+    border: 0;
+    padding-left: 20px;
+}
+
+
+.input3-div{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.big-input{
+    width: 436px;
+    height: 211px;
+    border-color: solid #ffffff;
+    border: 0;
+    padding-left: 20px;
+}
+
+
+.div-big-input{
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+
+.inputs-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+
+.button{
+    width: 241px;
+    height: 67px;
+    background-color: #FED136;
+    border: 0;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+
+.button-div{
+    padding-top: 25px;
+    justify-content: center;
+    display: flex;
+}
